@@ -42,8 +42,8 @@ A simple and accessible mobile app that:
 
 ## Tech Stack
 - Android Studio
-- Java/Kotlin
-- Local storage / Firebase (if used)
+- Kotlin
+- Firebase
 
 ---
 
@@ -51,11 +51,6 @@ A simple and accessible mobile app that:
 - AI-based health predictions
 - Doctor integration
 - Real-time alerts and notifications
-
----
-
-## Screenshots
-(Add screenshots here)
 
 ---
 
